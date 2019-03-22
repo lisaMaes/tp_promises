@@ -1,0 +1,78 @@
+[
+  {
+    "name": "Arawak",
+    "owner": {
+      "firstName": "Nicolas",
+      "lastName": "Hodicq",
+      "mail": "nhodicq@bewizyu.com"
+    },
+    "openDays": [
+      "Tuesday",
+      "Wednesday",
+      "Thursday",
+      "Friday",
+      "Saturday"
+    ],
+    "openHours": {
+      "start": 10,
+      "end": 1
+    },
+    "beers": [
+      {
+        "type": "Blonde",
+        "name": "Triple Karmeliet"
+      }
+    ]
+  },
+  {
+    "name": "Wallace",
+    "owner": {
+      "firstName": "Mi",
+      "lastName": "SaisPas",
+      "mail": "misaispas@test.com"
+    },
+    "openDays": [
+      "Tuesday",
+      "Wednesday",
+      "Thursday",
+      "Friday",
+      "Saturday"
+    ],
+    "openHours": {
+      "start": 10,
+      "end": 1
+    },
+    "beers": [
+      {
+        "type": "Ambre",
+        "name": "Delirium Tremens"
+      }
+    ]
+  },
+  {
+    "name": "405",
+    "owner": {
+      "firstName": "quatrecent",
+      "lastName": "Cinq",
+      "mail": "405@test.com"
+    },
+    "openDays": [
+      "Tuesday",
+      "Wednesday",
+      "Friday",
+      "Saturday",
+      "Sunday"
+    ],
+    "openHours": {
+      "start": 12,
+      "end": 3
+    },
+    "beers": [
+      {
+        "type": "Ambre",
+        "name": "Dure à cuire"
+      }
+    ]
+  }
+
+]
